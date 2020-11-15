@@ -26,3 +26,6 @@
 
 * `man` - displays a manual of a command
 * `clear` - clear screen
+* `ssh` - establish a secure authenticated connection with remote machine
+  (server).
+  `exit` - terminate a connection / session

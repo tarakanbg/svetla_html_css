@@ -1,5 +1,13 @@
 # Developer tools
 
+## `vim` | `nvim` - launches neovim editor
+
+## `kitty` - Terminal Emulator
+
+* `Ctrl + Shift + t` - new tab
+* `Ctrl + Shift + w` - close tab
+* `Ctrl + Shift + <left-arrow>/<right-arrow>` - move between tabs
+
 ## `git` - Version Control System
 
 * `git init .` - initialize a new git repository from current directory
